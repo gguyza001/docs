@@ -1,3 +1,4 @@
+LICENSE
 ---
 title: Dismissing a pull request review
 intro: 'If your repository [requires reviews](/articles/about-required-reviews-for-pull-requests), you can dismiss pull request reviews that are no longer valid or are unable to be approved by the reviewer.'
